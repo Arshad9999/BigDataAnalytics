@@ -1,3 +1,19 @@
+# Big Data Analytics Notes
+
+Markdown study notes covering big data analytics, data mining, Hadoop, and distributed data processing.
+
+## Usage
+
+Browse the files directly on GitHub. This is learning material rather than a packaged application, so no build command or deployment is implied.
+
+## License
+
+No repository-wide license was detected. No new license has been assigned; the owner must choose appropriate terms and verify rights to included material.
+
+---
+
+## Original learning material
+
 # BigDataAnalytics
 
 Big Data Analytics is the process of extracting valuable insights and information from large and complex data sets. It involves using advanced analytical techniques and tools to analyze large volumes of structured and unstructured data, including text, images, and videos, to identify patterns, trends, and relationships.
